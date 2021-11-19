@@ -1,4 +1,4 @@
 # APIchallenge
 Commands to run tests:
-npm install
-npm test
+1. npm install
+2. npm test
