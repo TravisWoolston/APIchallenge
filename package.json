@@ -1,0 +1,18 @@
+{
+  "name": "api-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "mocha": "^9.1.3",
+    "supertest": "^6.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha 'index.js'",
+    "start": "node server.js"
+  },
+  "author": "Travis Woolston",
+  "license": "MIT"
+}
